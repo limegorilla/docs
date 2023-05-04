@@ -1,23 +1,11 @@
-# Nextra Docs Template 
+# limegorilla documentation
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Welcome! This is the docs site for all of the things I whack on the internet. This project - powered by
+[nextra](https://nextra.site) is free to contribute to as well should you wish! See
+[the contribution getting started](https://docs.limegorilla.co.uk/contribuiting) for more info.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+<!-- Writing raw html as this will also be rendered on github -->
+<details>
+<summary>Reading on GitHub?</summary>
+This site gets rendered out to [https://docs.limegorilla.co.uk](https://docs.limegorilla.co.uk) and is - IMHO - a much better experience than navigating the [pages directory](https://github.com/limegorilla/docs/tree/main/pages) on GitHub.
+</details>
