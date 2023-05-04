@@ -20,11 +20,6 @@ const config: DocsThemeConfig = {
  footer: {
   text: "Liam Doyle | limegorilla - Documentation",
  },
- useNextSeoProps() {
-  return {
-   titleTemplate: "%s – SWR",
-  };
- },
  banner: {
   text: "🏔️ This site is in beta!",
  },
